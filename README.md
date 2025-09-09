@@ -1,5 +1,4 @@
 ![](img/github-header-banner.png)
-
 <h1 align="left">Hello World! 👋 What's up?</h1>
 
 ###
@@ -85,7 +84,6 @@
 </div>
 
 ###
-
 <!-- ## Hello wolrd! I'm Heru Nur👋 -->
 
 <!--
