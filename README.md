@@ -1,4 +1,6 @@
-## Hi there 👋
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZlMGgzeGh1aWNhYmVyZHBjaGd1aGVsb2JrOXFmeDY3bGZzejh1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif)
+
+## Hello wolrd! I'm Heru Nur👋
 
 <!--
 **ruleksz/ruleksz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Laravel** Framework
