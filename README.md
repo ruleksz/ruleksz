@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZlMGgzeGh1aWNhYmVyZHBjaGd1aGVsb2JrOXFmeDY3bGZzejh1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmpsbTdzOXZhOTA3NmhrOHFmNDdkd3d4MThpOWV0aWhldWkwN3VzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/glOTlYjxdxbitqcIgK/giphy.gif)
 
 ## Hello wolrd! I'm Heru Nur👋
 
